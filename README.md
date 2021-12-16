@@ -11,6 +11,8 @@ for ( var i = 0; i < 300;	i += 1 ) {
 
 Changing it to `let i = 0` solves the problem.
 
+## Steps to reproduce
+
 ```sh
 npm install
 npm run dev
