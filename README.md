@@ -4,7 +4,7 @@ sveltekit-var-bug-repro
 Svelte kit throws the error `Not implemented undefined` when you use `var` in a for-loop like this:
 
 ```js
-for ( var i = 0; i < 300;	i += 1 ) {
+for ( var i = 0; i < 300; i += 1 ) {
 	console.log(i);
 }
 ```
