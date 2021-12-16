@@ -1,5 +1,5 @@
 {
-  "name": "my-app-nonts",
+  "name": "sveltekit-var-bug-repro",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
